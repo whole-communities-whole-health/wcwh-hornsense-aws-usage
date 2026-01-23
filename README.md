@@ -1,9 +1,10 @@
 # AWS database documentation 
-Below are instructions for WCWH researchers to access the central database or 
-upload data to the database.  
+Below are instructions for researchers who use the Hornsense platform to access 
+their study's central database.
 
 ## Log into database query editor
-Use these instructions to log into the AWS Athena query editor to query the database.  
+Use these instructions to log into the AWS Athena query editor to query the database. 
+This option will also allow you to download data in CSV format.
 
 - [connect to athena](connect-to-athena.md) 
 
@@ -11,10 +12,6 @@ Use these instructions to log into the AWS Athena query editor to query the data
 Lab groups who upload data to the central database will use the following: 
 - [connect to S3](connect-to-s3.md)
 - [s3-upload-protocol](s3-upload-protocol.md).
-
-## Data request form
-Please use the WCWH data request form if you are requesting data:
-[WCWH data request form](https://utexas.qualtrics.com/jfe/form/SV_8wybObP8ORhEIJ0)
 
 ## Reference
 - [database table description](database-tables.md)
