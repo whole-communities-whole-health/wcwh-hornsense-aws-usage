@@ -7,8 +7,10 @@ Bookmark the link to the AWS portal login page: https://utexas.awsapps.com/start
 portal page, and login with your EID and password.
 
 ## 2. AWS access portal page
-The AWS access portal page has an orange icon. Select the label "VRES-WCWH-Cohort" 
-and then the "COLAITSDataLakeAnalyst" link.
+The AWS access portal page has an orange icon. Some people have access to multiple options here.  
+
+Select the label "VRES-WCWH-Cohort" and then the "COLAITSDataLakeAnalyst" link for the **WCWH** study.  
+Select the label "KHED-feasible-main" and then the "FEASible-athena" link for the **FEASible** study.  
 
 <img src="images/aws-access-portal.png" alt="hi" class="inline"/>
 
@@ -33,10 +35,17 @@ next step.
 <img src="images/splash.png" alt="hi" class="inline"/>
 
 ## 6. Athena console settings 
-The Athena query editor is where you will have access to collected data.  Make sure 
-your region is US East (Ohio), your workgroup is "primary" and that the 
-database selection is "participant-data." These options should be auto selected 
-for you in the future. 
+The Athena query editor is where you will have access to collected data.  
+
+**WCWH Study**
+Make sure your region is US East (Ohio), your workgroup is "primary" and that the 
+database selection is "participant-data."  
+
+**FEASible study**
+Make sure your region is US East (Ohio), your workgroup is "primary" and that the 
+database selection is "feas_prod_athena_db."  
+
+These options should be auto selected for you in the future. 
 
 <img src="images/settings-athena.png" alt="hi" class="inline"/>
 
