@@ -8,7 +8,7 @@ This option will also allow you to download data in CSV format.
 
 - [connect to athena](connect-to-athena.md) 
 
-## Upload data to buckets
+## Upload data 
 Lab groups who upload data to the central database will use the following: 
 - [connect to S3](connect-to-s3.md)
 - [s3-upload-protocol](s3-upload-protocol.md).
